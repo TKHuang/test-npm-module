@@ -1,6 +1,6 @@
 {
   "name": "coffee-module",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Awesome module",
   "keywords": [
     "keyword1",
@@ -9,8 +9,8 @@
   "homepage": "https://github.com/TKHuang/coffee-module",
   "bugs": "https://github.com/TKHuang/coffee-module/issues",
   "author": {
-    "name": "",
-    "email": "",
+    "name": "TKHuang",
+    "email": "kiratomatoTK@gmail.com",
     "url": "https://github.com/TKHuang"
   },
   "main": "./lib/coffee-module.js",
